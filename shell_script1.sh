@@ -4,7 +4,7 @@
 ##
 ##Sub: print Even number
 ##
-##Range: 1 to 1
+##Range: 1 to 100
 ##
 for i in {1..100}
 do
